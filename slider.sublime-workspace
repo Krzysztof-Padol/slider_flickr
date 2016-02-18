@@ -1,0 +1,2203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background-color: "
+			],
+			[
+				"__",
+				"__current"
+			],
+			[
+				"bac",
+				"background-image: "
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"apped",
+				"append	.append()"
+			],
+			[
+				"server",
+				"serverHttps〔variable〕"
+			],
+			[
+				"Conc",
+				"Contact"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"contac",
+				"contacts"
+			],
+			[
+				"find",
+				"find	.find()"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"latest",
+				"latestChats"
+			],
+			[
+				"tran",
+				"transition-delay: "
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"test",
+				"testresults"
+			],
+			[
+				"contact",
+				"contacts〔argument〕"
+			],
+			[
+				"entit",
+				"entityId〔variable〕"
+			],
+			[
+				"entity",
+				"entityId"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"data",
+				"dataObject"
+			],
+			[
+				"invo",
+				"invoiceId"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"partici",
+				"participants"
+			],
+			[
+				"in",
+				"inputn	input - number"
+			],
+			[
+				"invoice",
+				"invoiceinfo"
+			],
+			[
+				"input",
+				"inputt	input - text"
+			],
+			[
+				"not",
+				"notFound"
+			],
+			[
+				"crea",
+				"createUsingObj"
+			],
+			[
+				"firs",
+				"firstType"
+			],
+			[
+				"conta",
+				"contacts〔function〕"
+			],
+			[
+				"calend",
+				"calendars"
+			],
+			[
+				"di",
+				"displayName"
+			],
+			[
+				"isDef",
+				"isDefined	AngularJS"
+			],
+			[
+				"isDefe",
+				"isUndefined	AngularJS"
+			],
+			[
+				"or",
+				"orQuery"
+			],
+			[
+				"reques",
+				"requesterId〔variable〕"
+			],
+			[
+				"req",
+				"requester"
+			],
+			[
+				"$de",
+				"$digest	AngularJS"
+			],
+			[
+				"con",
+				"constant	AngularJS"
+			],
+			[
+				"border-lef",
+				"border-left-width: "
+			],
+			[
+				"und",
+				"undefined〔keyword〕"
+			],
+			[
+				"un",
+				"unsubscribe"
+			],
+			[
+				"sessio",
+				"sessionId"
+			],
+			[
+				"room",
+				"roomid〔argument〕"
+			],
+			[
+				"dis",
+				"disabled=\"true"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"$roote",
+				"$rootScope	AngularJS"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight()"
+			],
+			[
+				"pyra",
+				"pyramidCtrl"
+			],
+			[
+				"tra",
+				"transition: "
+			],
+			[
+				"pos",
+				"position: "
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding-top: "
+			],
+			[
+				"sec",
+				"sector_id"
+			],
+			[
+				"border",
+				"border-bottom: "
+			],
+			[
+				"pyr",
+				"pyramid_set"
+			],
+			[
+				"circle",
+				"circle_set"
+			],
+			[
+				"layout",
+				"layout-fill"
+			],
+			[
+				"video",
+				"videoElement"
+			],
+			[
+				"trustAs",
+				"trustAsResourceUrl	AngularJS"
+			],
+			[
+				"ng-s",
+				"ng-show	AngularJS"
+			],
+			[
+				"opac",
+				"opacity	Sass-function"
+			],
+			[
+				"opa",
+				"opacity	Sass-function"
+			],
+			[
+				"sub",
+				"subsciption"
+			],
+			[
+				"border-co",
+				"border-color: "
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"owner",
+				"ownerInit"
+			],
+			[
+				"handle",
+				"handleMessage"
+			],
+			[
+				"conf",
+				"conference"
+			],
+			[
+				"Sess",
+				"SessionAPI〔argument〕"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"per",
+				"percentage	Sass-function"
+			],
+			[
+				"$",
+				"$apply	AngularJS"
+			],
+			[
+				"level",
+				"level_number"
+			],
+			[
+				"sect",
+				"sector_number"
+			],
+			[
+				"sectors",
+				"sectorsLabels"
+			],
+			[
+				"ng-rea",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"up",
+				"uploadedFiles"
+			],
+			[
+				"sele",
+				"selectLevel"
+			],
+			[
+				"grou",
+				"group_paths〔variable〕"
+			],
+			[
+				"sector",
+				"sector_id"
+			],
+			[
+				"lev",
+				"lev_it"
+			],
+			[
+				"border-",
+				"border-color: "
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"$d",
+				"$digest	AngularJS"
+			],
+			[
+				"ligh",
+				"lighten	Sass-function"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"proje",
+				"projects_paths"
+			],
+			[
+				"progress",
+				"progress-animate"
+			],
+			[
+				"offset",
+				"offsetWidth"
+			],
+			[
+				"a",
+				"animate	.animate()"
+			],
+			[
+				"next",
+				"nextStepWidgetModule"
+			],
+			[
+				"secon",
+				"secondPathName"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"type",
+				"typeObject"
+			],
+			[
+				"before",
+				"beforeEach"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
+				"an",
+				"angular	AngularJS"
+			],
+			[
+				"user",
+				"userState"
+			],
+			[
+				"x",
+				"xApiResource"
+			],
+			[
+				"NextS",
+				"NextStepWidgetConfig"
+			],
+			[
+				"be",
+				"behaviour"
+			],
+			[
+				"contentState",
+				"contentStateType  (variable)"
+			],
+			[
+				"xApi",
+				"xApiUrl"
+			],
+			[
+				"XA",
+				"XAPI_URL"
+			],
+			[
+				"ugly",
+				"uglifyjs"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/css/main.css",
+			"settings":
+			{
+				"buffer_size": 1528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/model/ExampleImages.js",
+			"settings":
+			{
+				"buffer_size": 28394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/slider/SliderImageManager.js",
+			"settings":
+			{
+				"buffer_size": 4353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dist/app.js",
+			"settings":
+			{
+				"buffer_size": 128837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/slider/SliderBuilder.js",
+			"settings":
+			{
+				"buffer_size": 2562,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/slider/Slider.js",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app.js",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Flickr/PathBuilder.js",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"test",
+				"Test Runner: Run tests"
+			],
+			[
+				"tes",
+				"Test Runner: Show output panel"
+			],
+			[
+				"test ",
+				"Test Runner: Show output panel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"git gutter",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"grunt ",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"grut",
+				"Grunt"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git ad ",
+				"Git: Add..."
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"grunt ki",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"browe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 537.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/krzysztofpadol/Documents/Projects/slider",
+		"/Users/krzysztofpadol/Documents/Projects/slider/dist",
+		"/Users/krzysztofpadol/Documents/Projects/slider/dist/css",
+		"/Users/krzysztofpadol/Documents/Projects/slider/sass",
+		"/Users/krzysztofpadol/Documents/Projects/slider/src",
+		"/Users/krzysztofpadol/Documents/Projects/slider/src/Flickr",
+		"/Users/krzysztofpadol/Documents/Projects/slider/src/model",
+		"/Users/krzysztofpadol/Documents/Projects/slider/src/slider"
+	],
+	"file_history":
+	[
+		"/Users/krzysztofpadol/Documents/Projects/slider/dist/app.js",
+		"/Users/krzysztofpadol/Documents/Projects/slider/dist/css/main.css",
+		"/Users/krzysztofpadol/Downloads/krzychu105_SimpleTV.m3u8",
+		"/Users/krzysztofpadol/Downloads/m3u8 (2).m3u",
+		"/Users/krzysztofpadol/Downloads/m3u8 (3).m3u",
+		"/Users/krzysztofpadol/Downloads/m3u8 (5).m3u",
+		"/Users/krzysztofpadol/Downloads/m3u8 (4).m3u",
+		"/Users/krzysztofpadol/Downloads/pobrane (9).m3u",
+		"/Users/krzysztofpadol/Downloads/m3u8 (6).m3u",
+		"/Users/krzysztofpadol/Downloads/m3u8 (1).m3u",
+		"/Users/krzysztofpadol/Documents/costam",
+		"/Users/krzysztofpadol/Downloads/BJ04 HAR FILE/BJ04V15-01 can't login",
+		"/Users/krzysztofpadol/Downloads/BJ6 Har file/login.har",
+		"/Users/krzysztofpadol/Downloads/web.config",
+		"/Users/krzysztofpadol/Downloads/pobrane (8).m3u",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/quick_redirect_server/server.js",
+		"/Users/krzysztofpadol/Downloads/pobrane (5).m3u",
+		"/Users/krzysztofpadol/Downloads/pobrane (6).m3u",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/realiable_server/package.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/Gruntfile.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/admin/dashboard.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/User.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/UserController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/admin/users/usersList.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/views/layout.ejs",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/common/navi_sidebar_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/views/emptylayout.ejs",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/contacts/contacts_srv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/sockets.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/bearertest/test/package.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/quick_redirect_server/package.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/dashboard.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/circle/circleSession_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/ValuesSetController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/ValuesSessionController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/clientRecord/logRecord_drv.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/register/compileAssets.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/session.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/env/production.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/env/development.js",
+		"/Users/krzysztofpadol/Documents/Projects/NES/nse-learning-services-client/bower_components/angular-recorder/record-builder.js",
+		"/Users/krzysztofpadol/Downloads/record-builder.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/profile/profile_mdl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/values_list/valuesList_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/styles/tools/circle.scss",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/tools/circle/circlePreview.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/client/dashboard.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/videoSession/session_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/clientRecord/clientRecord_mdl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/tools/values/values.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/.tmp/public/js/app/tools/values_list/valuesSession_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/values_list/valuesListView_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/tools/values/valuesPreview.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/client/contacts.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/videoSession/sessionSync_srv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/calendar/calendar_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/common/conference.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/pipeline.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/bearertest/test/config/session.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/LandingController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/routes.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/policies.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/circle/circleSetView_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/contacts/contacts_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/chat/chat_drv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/profile/contact_profile.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/bootstrap.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/session/sessionMainVideo.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/addContactDialog.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/www/templates/dashboard.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/auth/auth_session.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/main.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/videoSession/sessionWizard_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/videoSession/session_mdl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/auth/auth_service.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/policies/isChatParticipant.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/policies/isCustomerOrSeller.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/policies/isInContact.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/policies/isOwner.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/policies/isPublicOrYouAreOwner.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/SessionController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/CalendarController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/Notification.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/session/conferenceThumbnail.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/vendor/angular-sails-bind/angular-sails-bind.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/registerdialog.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/locales/pl.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/locales/en.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/session/sessionInfo.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/circle/circle_drv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/videoSession/smallVideoList_drv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/session/sessionWizard.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/styles/common.scss",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/cards/cardSession_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/values_list/values_drv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/values_list/valuesSession_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/clientRecord/logRecord_drv.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/package.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/register/compileAssetsProd.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/register/prod.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/config/sass.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/config/sails-linker.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/processes.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/realiable_server/server.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/processes_stage.json",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/services/protocols/index.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/services/passport.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/services/protocols/local.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/AuthController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/Passport.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config/passport.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/clientRecord/clientList.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/values_list/valuesStatePreview_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/tools/values/valuesStatePreview.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/clientRecord/clientRecordLog_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/tools/values/valuesView.html",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app/tools/pyramid/pyramidSession_ctrl.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/FixtureController.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/Calendar.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/ProfileDescription.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/InvoiceInfo.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/Pyramidset.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/PyramidSession.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/Card.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/CardSession.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/CircleSession.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models/CircleSet.js",
+		"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers/NotificationController.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates/session",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/services",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/tasks/register",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/node_modules/passport",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/services",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/node_modules/passport-google-oauth",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/node_modules/passport",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/templates",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/controllers",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/api/models",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/styles",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/styles",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/styles",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets/js/app",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/config",
+			"/Users/krzysztofpadol/Documents/Projects/coachingSalon/coaching/assets",
+			"/Users/krzysztofpadol/Documents/Projects/ungit-master",
+			"/Users/krzysztofpadol/Documents/Projects/AR/client",
+			"/Users/krzysztofpadol/Documents/Projects/AR/node_modules/passport-local",
+			"/Users/krzysztofpadol/Documents/Projects/AR/node_modules/passport",
+			"/Users/krzysztofpadol/Documents/Projects/AR/node_modules/passport-local",
+			"/Users/krzysztofpadol/Documents/Projects/NES/nse-learning-services-client/app",
+			"/Users/krzysztofpadol/Documents/Projects/NES/nse-learning-services-client/test"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"imageManager",
+			"click",
+			"reload",
+			"build-persistent",
+			"vevo",
+			"tvn turbo",
+			"http",
+			"rtmp",
+			"turbo",
+			"style",
+			"old c",
+			"cardViewCtrl",
+			"toolbox/cards/view",
+			"card in cards",
+			"typeof",
+			"Notification.create",
+			"$scope.pendingContact",
+			"$scope.relations",
+			"createContactObject",
+			"Notification.create",
+			"socketURL",
+			"initReliableSignaler",
+			"SIGNALING_SERVER",
+			".on",
+			"auth",
+			"native",
+			"console",
+			"!contact.accepted || !contact.accepted",
+			"$scope.waitingContact",
+			"$scope.pendingContact",
+			"$scope.relations",
+			"[0]",
+			"Contact.native",
+			"delete",
+			"$mdDialog",
+			"removeNotificationById",
+			"removeNotificationByIdInArray",
+			"onSessionDelete",
+			"SESSION_DELETE",
+			"onSessionDelete",
+			"SESSION_DELETE",
+			"deleteSession",
+			"body",
+			"usersListVM",
+			"createContactObject",
+			"users",
+			"mc",
+			"callback",
+			"AuthService",
+			"navi_sidebar_ctrl",
+			"ContentController",
+			"AppController",
+			"Error.Passport.Password.Wrong",
+			"instant",
+			"tra",
+			"sideNavigation",
+			"session",
+			"inter",
+			"landing-loader-container",
+			"LoaderController",
+			"LoaderContrl",
+			"devJsCompleteData",
+			"jsFilesToInjectAdminPanel",
+			"LoginDialogController",
+			"SCRIPTSCOMPLETEDATA",
+			"session.idle",
+			"sessionInfoCtrl",
+			"coachcalendar.session_info",
+			"sessionInfoCtrl",
+			"sails",
+			"mirrorSrc",
+			"openSessionInfo",
+			"getById",
+			"getSessionById",
+			"sessionInfo",
+			"sessionInfoCtrl",
+			"coachcalendar.session_info",
+			"logout",
+			"getSessionById",
+			"sessionInfo",
+			"sessionInfoCtrl",
+			"getSessionById",
+			"sessionInfoCtrl",
+			"coachcalendar.session_info",
+			"openSessionInfo",
+			"pictureUrl",
+			"contactType",
+			"sessionMainVideo",
+			"confere",
+			"cs_circles",
+			"node-sass",
+			"waterline",
+			"shri",
+			"shrinkwrap",
+			"shrinkwrap.json",
+			"register",
+			"passports",
+			"loadStrategies",
+			"cs_circles",
+			"contentWithTopBar",
+			"case 'VALUES_SESSION_RESET':\n              $scope.message = 'Użytkownik ' + $scope.record.who.given_name + ' zresetował wartości listy.';\n            break;",
+			"('Session'",
+			"navi_sidebar_ctrl",
+			"leave",
+			"valuesSessionCtrl",
+			"selectedvalues",
+			"clientrecord.values",
+			"updateStates",
+			"cardToolName",
+			"createCards",
+			"sessionSync.openCards('video'",
+			"$rootScope",
+			"$mdToast",
+			"isOwner",
+			"sideNavigation",
+			"openCards",
+			"scope.svg",
+			"repositionTextForSVG",
+			"blobStream",
+			"document",
+			"updateStates",
+			"createArc",
+			"resizeElement",
+			"circle",
+			"repositionText",
+			"drawShape",
+			"createText",
+			"repositionText"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"coachListVM",
+			"circles",
+			"canRead",
+			"UserName2",
+			"UserName1",
+			"subscriptionForm",
+			"new_scale",
+			"scaleSession",
+			"$stateParams",
+			"level_number",
+			"sector_id",
+			"scope.svg",
+			"scope.paths",
+			"scope.groups",
+			"scope.sectors",
+			"scope.levels",
+			"pyramid-center",
+			"nextstepWidget",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"app.DIST",
+			"PATH",
+			":dist",
+			"PATH",
+			":dist",
+			"APP_CONFIG",
+			"DIST",
+			"PATH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/krzysztofpadol/Documents/Projects/slider"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1687,
+								1687
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dist/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/model/ExampleImages.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26941,
+								26941
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/slider/SliderImageManager.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dist/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								516
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18358.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1022,
+								1022
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "src/slider/SliderBuilder.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								734,
+								734
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/slider/Slider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								996,
+								975
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 437.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/Flickr/PathBuilder.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								455
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.564696463062,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 303.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"output.test_runner":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"confere",
+				"coaching/assets/js/app/common/conference.js"
+			],
+			[
+				"",
+				"coaching/api/controllers/TestResultsController.js"
+			],
+			[
+				"noti",
+				"coaching/api/models/Notification.js"
+			],
+			[
+				"signa",
+				"coaching/assets/js/dependencies/signaler.js"
+			],
+			[
+				"chat",
+				"coaching/api/controllers/ChatController.js"
+			],
+			[
+				"profile",
+				"coaching/assets/js/app/profile/profile_mdl.js"
+			],
+			[
+				"profile_",
+				"coaching/assets/js/app/profile/profile_mdl.js"
+			],
+			[
+				"contact",
+				"coaching/api/models/Contact.js"
+			],
+			[
+				"calenda",
+				"coaching/assets/js/app/calendar/calendar_ctrl.js"
+			],
+			[
+				"session",
+				"coaching/api/models/Session.js"
+			],
+			[
+				"notifi",
+				"coaching/api/models/Notification.js"
+			],
+			[
+				"policie",
+				"coaching/config/policies.js"
+			],
+			[
+				"poli",
+				"coaching/config/policies.js"
+			],
+			[
+				"calendar",
+				"coaching/assets/js/app/calendar/calendar_ctrl.js"
+			],
+			[
+				"sessionco",
+				"coaching/api/controllers/SessionController.js"
+			],
+			[
+				"polici",
+				"coaching/config/policies.js"
+			],
+			[
+				"routes",
+				"coaching/config/routes.js"
+			],
+			[
+				"user",
+				"coaching/api/models/User.js"
+			],
+			[
+				"route",
+				"coaching/config/routes.js"
+			],
+			[
+				"rout",
+				"coaching/config/routes.js"
+			],
+			[
+				"usercon",
+				"coaching/api/controllers/UserController.js"
+			],
+			[
+				"app",
+				"coaching/assets/js/admin/app.js"
+			],
+			[
+				"coachlist",
+				"coaching/assets/js/admin/coach/coachList_ctrl.js"
+			],
+			[
+				"coachlis",
+				"coaching/assets/templates/admin/coach/coachList.html"
+			],
+			[
+				"app.js",
+				"coaching/assets/js/admin/app.js"
+			],
+			[
+				"polic",
+				"coaching/config/policies.js"
+			],
+			[
+				"userlist",
+				"coaching/assets/js/admin/users/usersList_ctrl.js"
+			],
+			[
+				"main_ctr",
+				"coaching/.tmp/public/js/admin/dashboard/main_ctrl.js"
+			],
+			[
+				"main_ct",
+				"coaching/assets/js/admin/dashboard/main_ctrl.js"
+			],
+			[
+				"userlis",
+				"coaching/assets/templates/admin/users/usersList.html"
+			],
+			[
+				"pipe",
+				"coaching/tasks/pipeline.js"
+			],
+			[
+				"usercontr",
+				"coaching/api/controllers/UserController.js"
+			],
+			[
+				"authcontr",
+				"coaching/api/controllers/AuthController.js"
+			],
+			[
+				"main",
+				"coaching/assets/templates/admin/main.html"
+			],
+			[
+				"main_ctrl",
+				"coaching/assets/js/admin/dashboard/main_ctrl.js"
+			],
+			[
+				"admin",
+				"coaching/views/admin.ejs"
+			],
+			[
+				"contentload",
+				"coaching/assets/js/app/common/contentloader.js"
+			],
+			[
+				"pl.j",
+				"coaching/config/locales/pl.json"
+			],
+			[
+				"completedata/app",
+				"coaching/assets/js/completedata/app.js"
+			],
+			[
+				"auth",
+				"coaching/api/controllers/AuthController.js"
+			],
+			[
+				"coachcont",
+				"coaching/api/controllers/CoachController.js"
+			],
+			[
+				"landing",
+				"coaching/api/controllers/LandingController.js"
+			],
+			[
+				"socket",
+				"coaching/config/sockets.js"
+			],
+			[
+				"dev",
+				"coaching/config/env/development.js"
+			],
+			[
+				"produc",
+				"coaching/config/env/production.js"
+			],
+			[
+				"conferen",
+				"coaching/assets/js/app/common/conference.js"
+			],
+			[
+				"sessioninfo",
+				"coaching/assets/templates/session/sessionInfo.html"
+			],
+			[
+				"sessionwi",
+				"coaching/assets/js/app/videoSession/sessionWizard_ctrl.js"
+			],
+			[
+				"ses",
+				"coaching/api/controllers/SessionController.js"
+			],
+			[
+				"calen",
+				"coaching/assets/js/app/calendar/calendar_ctrl.js"
+			],
+			[
+				"dashb",
+				"coaching/assets/templates/dashboard.html"
+			],
+			[
+				"dashbard",
+				"coaching/assets/templates/dashboard.html"
+			],
+			[
+				"dashboard",
+				"coaching/assets/templates/dashboard.html"
+			],
+			[
+				"dsahboard",
+				"coaching/www/templates/dashboard.html"
+			],
+			[
+				"dash",
+				"coaching/www/templates/dashboard.html"
+			],
+			[
+				"session_",
+				"coaching/assets/js/app/videoSession/session_ctrl.js"
+			],
+			[
+				"contat",
+				"coaching/assets/templates/client/contacts.html"
+			],
+			[
+				"rou",
+				"coaching/config/routes.js"
+			],
+			[
+				"deve",
+				"coaching/config/env/development.js"
+			],
+			[
+				"logrec",
+				"coaching/assets/js/app/clientRecord/logRecord_drv.js"
+			],
+			[
+				"logre",
+				"coaching/assets/js/app/clientRecord/logRecord_drv.js"
+			],
+			[
+				"valuescon",
+				"coaching/api/controllers/ValuesSessionController.js"
+			],
+			[
+				"values",
+				"coaching/api/controllers/ValuesSetController.js"
+			],
+			[
+				"das",
+				"coaching/assets/templates/dashboard.html"
+			],
+			[
+				"valuessess",
+				"coaching/.tmp/public/js/app/tools/values_list/valuesSession_ctrl.js"
+			],
+			[
+				"caled",
+				"coaching/assets/js/app/calendar/calendar_ctrl.js"
+			],
+			[
+				"client/dash",
+				"coaching/assets/templates/client/dashboard.html"
+			],
+			[
+				"contacts",
+				"coaching/assets/templates/client/contacts.html"
+			],
+			[
+				"other",
+				"coaching/assets/js/app/contacts/otherContacts_srv.js"
+			],
+			[
+				"profi",
+				"coaching/assets/js/app/profile/profile_mdl.js"
+			],
+			[
+				"profil",
+				"coaching/assets/js/app/profile/profile_mdl.js"
+			],
+			[
+				"contact_c",
+				"coaching/assets/js/app/contacts/contacts_ctrl.js"
+			],
+			[
+				"sessionwiz",
+				"coaching/assets/js/app/videoSession/sessionWizard_ctrl.js"
+			],
+			[
+				"de",
+				"coaching/config/env/development.js"
+			],
+			[
+				"contac",
+				"coaching/api/models/Contact.js"
+			],
+			[
+				"circleset",
+				"coaching/assets/js/app/tools/circle/circleSetView_ctrl.js"
+			],
+			[
+				"valuesset",
+				"coaching/api/controllers/ValuesSetController.js"
+			],
+			[
+				"valuessetlis",
+				"coaching/assets/js/app/tools/values_list/valuesSetList_ctrl.js"
+			],
+			[
+				"client/das",
+				"coaching/assets/templates/client/dashboard.html"
+			],
+			[
+				"topbar",
+				"coaching/assets/js/app/common/topbar.js"
+			],
+			[
+				"pyramidlist",
+				"coaching/assets/js/app/tools/pyramid/pyramindList_ctrl.js"
+			],
+			[
+				"pyramidsetco",
+				"coaching/api/controllers/PyramidsetController.js"
+			],
+			[
+				"circlelist",
+				"coaching/assets/js/app/tools/circle/circleList_ctrl.js"
+			],
+			[
+				"circlelis",
+				"coaching/assets/js/app/tools/circle/circleList_ctrl.js"
+			],
+			[
+				"circle",
+				"coaching/assets/js/app/tools/circle/circleList_ctrl.js"
+			],
+			[
+				"dashobard",
+				"coaching/assets/templates/dashboard.html"
+			],
+			[
+				"toolbox",
+				"coaching/assets/js/app/tools/crud/toolboxDialogs.js"
+			],
+			[
+				"notif",
+				"coaching/api/models/Notification.js"
+			],
+			[
+				"conta",
+				"coaching/assets/templates/client/contacts.html"
+			],
+			[
+				"contact.html",
+				"coaching/assets/templates/contacts.html"
+			],
+			[
+				"sess",
+				"coaching/api/controllers/SessionController.js"
+			],
+			[
+				"notii",
+				"coaching/assets/js/app/notifications/notifications_srv.js"
+			],
+			[
+				"cont",
+				"coaching/api/controllers/ContactController.js"
+			],
+			[
+				"cale",
+				"coaching/assets/js/app/calendar/calendar_ctrl.js"
+			],
+			[
+				"dashboard.html",
+				"coaching/assets/templates/client/dashboard.html"
+			],
+			[
+				"contacts.html",
+				"coaching/assets/templates/client/contacts.html"
+			],
+			[
+				"toolboxdi",
+				"coaching/assets/js/app/tools/crud/toolboxDialogs.js"
+			],
+			[
+				"cal",
+				"coaching/api/controllers/CalendarController.js"
+			],
+			[
+				"notiif",
+				"coaching/api/controllers/NotificationController.js"
+			],
+			[
+				"client/dashboard",
+				"coaching/assets/templates/client/dashboard.html"
+			],
+			[
+				"app.",
+				"coaching/assets/js/app/app.js"
+			],
+			[
+				"dashbo",
+				"coaching/.tmp/public/templates/client/dashboard.html"
+			],
+			[
+				"chat_drv.js",
+				"coaching/assets/js/app/chat/chat_drv.js"
+			],
+			[
+				"notifica",
+				"coaching/api/controllers/NotificationController.js"
+			],
+			[
+				"n",
+				"coaching/api/models/Notification.js"
+			],
+			[
+				"mes",
+				"coaching/api/controllers/Chat/MessageController.js"
+			],
+			[
+				"addc",
+				"coaching/assets/templates/addContactDialog.html"
+			],
+			[
+				"pip",
+				"coaching/tasks/pipeline.js"
+			],
+			[
+				"landingcontr",
+				"coaching/api/controllers/LandingController.js"
+			],
+			[
+				"circle_mdl",
+				"coaching/assets/js/app/tools/circle/cirlce_mdl.js"
+			],
+			[
+				"importe",
+				"coaching/assets/styles/importer.scss"
+			],
+			[
+				"en.",
+				"coaching/config/locales/en.json"
+			],
+			[
+				"pl.json",
+				"coaching/config/locales/pl.json"
+			],
+			[
+				"policies",
+				"coaching/config/policies.js"
+			],
+			[
+				"layout",
+				"coaching/views/layout.ejs"
+			],
+			[
+				"pyramidset",
+				"coaching/api/models/Pyramidset.js"
+			],
+			[
+				"pol",
+				"coaching/config/policies.js"
+			],
+			[
+				"contan",
+				"coaching/api/controllers/ContactController.js"
+			],
+			[
+				"sesson",
+				"coaching/api/models/Session.js"
+			],
+			[
+				"connec",
+				"coaching/config/connections.js"
+			],
+			[
+				"p",
+				"coaching/config/policies.js"
+			],
+			[
+				"chat.js",
+				"coaching/api/models/Chat.js"
+			],
+			[
+				"isc",
+				"coaching/api/policies/isChatParticipant.js"
+			],
+			[
+				"circlese",
+				"coaching/.tmp/public/js/app/tools/circle/circleSession_ctrl.js"
+			],
+			[
+				"circlesess",
+				"coaching/assets/js/app/tools/circle/circleSessionWizard_ctrl.js"
+			],
+			[
+				"session.js",
+				"coaching/api/models/Session.js"
+			],
+			[
+				"invoice",
+				"coaching/api/models/Invoice.js"
+			],
+			[
+				"fix",
+				"coaching/api/controllers/FixtureController.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/NES/mywidget.sublime-workspace"
+			],
+			[
+				"\\",
+				"~/Documents/Projects/github/require-wiredep.sublime-project"
+			],
+			[
+				"my",
+				"~/Documents/Projects/NES/mycoursewidget.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 717.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

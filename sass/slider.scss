@@ -1,0 +1,126 @@
+@import 'slider_vars';
+
+.cool-slider {
+  position: relative;
+  width: 100%;
+  min-width: 300px;
+  height: $slider_height;
+  overflow: hidden;
+
+  &--contain &__slide{
+    background-size: contain;
+  }
+
+  &__slide {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: $slider_height;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    //Use autoprefixer in future
+    -webkit-transition: transform $slider_animation_time $slider_animation_function_default;
+    transition: transform $slider_animation_time $slider_animation_function_default;
+
+    &--hide {
+      display: none;
+    }
+  }
+
+  &__current {
+    transform: translate3d(0%, 0px, 0px);
+  }
+
+  &__prev {
+    transform: translate3d(-100%, 0px, 0px);
+  }
+
+  &__next {
+    transform: translate3d(100%, 0px, 0px);
+  }
+
+  &__container-thumbnail {
+    position: absolute;
+    z-index: 15;
+    top: 0px;
+    left: 0px;
+    width: 50%;
+    height: $slider_height;
+
+    &__prev {
+      transform: translate3d(0%, 0px, 0px);
+    }
+
+    &__next {
+      transform: translate3d(100%, 0px, 0px);
+    }
+
+    &--hide {
+      display: none;
+    }
+  }
+
+  &__thumbnail {
+    position: absolute;
+    top: 50%;
+    width: $slider_thumbnail_size;
+    height: $slider_thumbnail_size;
+
+    transform: translate3d(0%, -50%, 0px);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    opacity: .7;
+    //Use autoprefixer in future
+    -webkit-transition: opacity .2s $slider_animation_function_default, transform .2s $slider_animation_function_default;
+    transition: opacity .2s $slider_animation_function_default, transform .2s $slider_animation_function_default;
+
+    &:hover {
+      opacity: 1;
+      transform: scale(1.2) translate3d(0%, -40%, 0px);
+    }
+
+    &__prev {
+      left: 0px;
+      margin-left: $slider_thumbnail_margin;
+    }
+
+    &__next {
+      right: 0px;
+      margin-right: $slider_thumbnail_margin;
+    }
+  }
+
+  &__description {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: $slider_height * 0.3;
+    padding: 25px;
+
+    background-color: rgba(0,0,0, .5);
+    color: #fff;
+    opacity: 0;
+
+    //Use autoprefixer in future
+    -webkit-transition: opacity .5s $slider_animation_function_default;
+    transition: opacity .5s $slider_animation_function_default;
+
+    font-size: 30px;
+    font-weight: 300;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &--hide {
+      display: none;
+    }
+  }
+
+  &:hover &__description {
+    opacity: 1;
+  }
+
+}
